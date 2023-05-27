@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+ background-image: url(Images/bimage.PNG);
+}
+#nuelogo{
+    width: 40%;
+    height: 80%;
+    margin-left:5%;
+}
+.link{
+    padding: 10px;
+    margin: 20px;
+}
+#home{
+    color: black;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+#home:hover{
+    color: rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+#aboutus{
+    color: black;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+#aboutus:hover{
+    color: rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+#contactus{
+    color: black;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+#contactus:hover{
+    color: rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+#dropmovie:hover{
+    background-color: red;
+    color: aliceblue;
+}
+#neimg{
+    width: 350px;
+    margin: 2px;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+#footlogo{
+    width: 150px;
+    height: 100px;
+}
+#sociallink{
+    color: black;
+    margin: 10px;
+}
+#sociallink:hover{
+    color: rgb(255, 0, 0);
+    font-weight: 800;
+}
